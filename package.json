@@ -1,0 +1,16 @@
+{
+    "name" : "io.pandastudio.main-ui",
+    "version" : "1.0.0",
+    "displayName" : "Main UI",
+    "description" : "All main elements and event compare this lib.",
+    "unity" : "2019.1",
+    "dependencies":{
+        
+    },
+    "keywords" : ["library","utility","ui"],
+    "author":{
+            "name":"Numan Ayhan",
+            "email" :"n.ayhan@pandastudio.io",
+            "url":"https://github.com/pandastudio-io/main-ui.git"
+    }
+}
